@@ -1,0 +1,23 @@
+{
+  "name": "tallerpropiedadesyobjetos",
+  "version": "1.0.0",
+  "description": "Crear un sistema de préstamo de libros.\r Tareas:\r 1.Usa el constructor Libro para crear un objeto con título y autor.\r 2.Agrega una propiedad prestado = false.\r 3.Implementa el método prestar() que:\r •Cambie prestado a true si el libro está disponible.\r •Muestre un mensaje de error si ya está prestado (usando if).\r 4.Prueba prestar el libro dos veces y observa los mensajes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liw1030/TallerPropiedadesyObjetos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liw1030/TallerPropiedadesyObjetos/issues"
+  },
+  "homepage": "https://github.com/Liw1030/TallerPropiedadesyObjetos#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
