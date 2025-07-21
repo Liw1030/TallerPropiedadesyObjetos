@@ -34,8 +34,7 @@ música...".
 •Si no, muestra: "No hay música reproduciéndose.".
 •detener(): Cambia el estado a "detenido" y muestra: "Música detenida.".
 
-# Ejercicio 4: Carrito de Compras con Descuentos (manejo de estados en un objeto
-usando métodos y condicionales (if/else).
+# Ejercicio 4: Carrito de Compras con Descuentos (manejo de estados en un objeto usando métodos y condicionales (if/else).
 Tareas:
 1. Crea un objeto Carrito usando una función constructora o clase que tenga:
 •Una propiedad productos (array vacío).
